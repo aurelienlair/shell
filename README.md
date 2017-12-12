@@ -1,2 +1,1 @@
-# shell
-Unix shell useful functions
+shell main functions in a nutshell
